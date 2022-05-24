@@ -1,2 +1,2 @@
 # MST-Visualizer
-#This project is built completely using C++
+This project is built completely using C++
