@@ -1,21 +1,7 @@
 // DATA STRUCTURES AND ALGORITHMS PROJECT
-//***************************TEAM DETAILS******************************************
-// LUV GHILOTHIA - 2020A7PS1700H
-// AMOGH MOSES   - 2020A7PS1199H
-// ABHIRATH N B  - 2020A7PS0260H
 
-// MST VISUALISER BY PRIM'S MST ALGORITHM IN C++
-// USING MINIMUM HEAP IMPLEMENTATION
-
-//***************************START OF THE PROGRAM***********************************
 #include <bits/stdc++.h>
-
-//#include <limits.h>
-//#include <stdio.h>
-//#include <stdlib.h>
-
 using namespace std;
-
 
 // Structure to represent a node in the adjacency list
 // It has the destination vertex of the graph,
